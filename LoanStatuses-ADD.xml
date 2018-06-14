@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NLS CommitBlock="1">
+<LOAN LoanNumber="1234" UpdateFlag="1">
+	<LOANSTATUSES Operation="ADD" LoanStatusCode="PAID OFF" EffectiveDate="06/09/2018"/>
+</LOAN>
+</NLS>
