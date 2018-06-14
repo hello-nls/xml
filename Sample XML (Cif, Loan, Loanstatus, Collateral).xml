@@ -1,0 +1,41 @@
+<?xmlversion="1.0"encoding="UTF-8"standalone="yes"?>
+<NLS>
+	<CIF
+		UpdateFlag="1"
+		CIFNumber="VALUE"
+		Entity="VALUE"
+	>
+		<CIFDETAIL
+		CIFDetail2="VALUE"
+		CIFDetail5="VALUE"
+		CIFDetail6="VALUE"
+		CIFDetail28="VALUE"
+		CIFDetail29="VALUE"
+		CIFDetail30="VALUE"
+		CIFDetail43="VALUE"
+		CIFDetail48="VALUE"
+		>
+		</CIFDETAIL>
+	</CIF>
+	<LOAN
+		UpdateFlag="1"
+		LoanNumber="VALUE"
+		CIFNumber="VALUE"
+		LoanTemplateName="VALUE"
+		Entity="VALUE"
+	>
+		<LOANSTATUSES
+			Operation="Add"
+			LoanStatusCode="VALUE"
+			EffectiveDate="VALUE"
+		>
+		</LOANSTATUSES>
+		<COLLATERAL
+			UpdateFlag="1"
+			CollateralID="VALUE"
+			CollateralCodeNo="VALUE"
+			CollateralDetail2="VALUE"
+		>
+		</COLLATERAL>
+	</LOAN>
+</NLS>
