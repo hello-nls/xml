@@ -1,0 +1,21 @@
+--Used for XML import from DB only. I use this for mass data clean up
+--Changes Loan Status Code based on specified date. 
+--Does not Close loan
+--Robert B
+Select '<NLS>'
+
+union all
+
+SELECT        '<LOAN UpdateFlag="1" LoanNumber="' + loanacct.loan_number + '" >' +
+                           '<LOANSTATUSES Operation="DELETE" LoanStatusCode="PNDAPPROVAL" EffectiveDate="07/26/2018" />' +
+						   '<LOANSTATUSES Operation="ADD" LoanStatusCode="PLSVOID" EffectiveDate="07/26/2018" />' +
+						   '</LOAN>'
+FROM            dbo.loanacct_statuses INNER JOIN
+                         dbo.loan_status_codes ON dbo.loanacct_statuses.status_code_no = dbo.loan_status_codes.status_code_no INNER JOIN
+                         dbo.loanacct ON dbo.loanacct_statuses.acctrefno = dbo.loanacct.acctrefno
+
+Where status_code = 'PNDAPPROVAL' AND entry_date <= dateadd(DD, -3, cast(getdate() as date))
+
+union all
+
+Select '</NLS>'
