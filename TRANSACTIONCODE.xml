@@ -1,0 +1,9 @@
+<NLS CommitBlock = "0">
+<TRANSACTIONS CommitEachTransaction="1">
+<TRANSACTIONCODE 
+	TransactionCode="440" 
+	EffectiveDate="08/08/2018" 
+	LoanNumber="12345" 
+	Amount="2.0" />
+</TRANSACTIONS>
+</NLS>
