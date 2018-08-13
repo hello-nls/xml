@@ -1,0 +1,11 @@
+<NLS CommitBlock = "0">
+	<LOAN UpdateFlag="1" LoanNumber="12345" />
+	<TRANSACTIONS CommitEachTransaction ="1" >          
+		<TRANSACTIONCODE 
+		    UserDefined1="Close Loan"
+			TransactionCode ="440" 
+			EffectiveDate="08/09/2018"  
+			Amount="0.01"  
+			LoanNumber="12345" />
+	</TRANSACTIONS>
+</NLS>
