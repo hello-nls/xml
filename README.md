@@ -11,3 +11,10 @@ XML samples, etc
 
 [XML Tricks: by SDougwillo](https://github.com/hello-nls/xml/wiki/XML-Tricks%3A-by-SDougwillo)
 
+
+
+## Etc...
+
+https://codebeautify.org/xmlviewer
+
+https://codebeautify.org
