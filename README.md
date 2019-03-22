@@ -7,6 +7,13 @@ XML samples, etc
 
 ## Samples
 
+#### Sample XMLs by littlstan 
+
+* https://github.com/littlstan/configfiles-FFN-NLS-
+
+* https://github.com/littlstan/FFN-NLSconfigfiles
+
+
 ## Tutorials
 
 [XML Tricks: by SDougwillo](https://github.com/hello-nls/xml/wiki/XML-Tricks%3A-by-SDougwillo)
@@ -21,8 +28,3 @@ https://codebeautify.org
 
 
 
-## Sample XMLs by littlstan 
-
-https://github.com/littlstan/configfiles-FFN-NLS-
-
-https://github.com/littlstan/FFN-NLSconfigfiles
