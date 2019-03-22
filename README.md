@@ -18,3 +18,13 @@ XML samples, etc
 https://codebeautify.org/xmlviewer
 
 https://codebeautify.org
+
+
+
+###
+
+Sample XMLs by littlstan 
+
+https://github.com/littlstan/configfiles-FFN-NLS-
+
+https://github.com/littlstan/FFN-NLSconfigfiles
