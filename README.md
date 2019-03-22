@@ -21,9 +21,7 @@ https://codebeautify.org
 
 
 
-###
-
-Sample XMLs by littlstan 
+### Sample XMLs by littlstan 
 
 https://github.com/littlstan/configfiles-FFN-NLS-
 
