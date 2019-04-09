@@ -19,6 +19,9 @@ XML samples, etc
 [XML Tricks: by SDougwillo](https://github.com/hello-nls/xml/wiki/XML-Tricks%3A-by-SDougwillo)
 
 
+## Tools
+
+[Where can I find the resources to create my own XML (from NLS Support)?](https://nortridge.freshdesk.com/support/solutions/articles/42000055306)
 
 ## Etc...
 
