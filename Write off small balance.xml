@@ -1,3 +1,5 @@
+-- https://community.nortridge.com/t/write-off-small-balance-script/1589
+
 Select '<NLS CommitBlock = "0">'
 
 union all
